@@ -18,3 +18,4 @@ curl -s https://packagecloud.io/install/repositories/gyazo/gyazo-for-linux/scrip
 sudo apt-get --aasume-yes install gyazo
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb
+sh ./set_colorscheme.sh
